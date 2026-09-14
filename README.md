@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
@@ -147,4 +148,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
