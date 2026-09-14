@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
