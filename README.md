@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthsingh49/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/siddharthsingh49/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddharthsingh49/Leetcode/tree/master/0213-house-robber-ii) |
+| [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
 | ------- |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/siddharthsingh49/Leetcode/tree/master/0020-valid-parentheses) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddharthsingh49/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
 | ------- |
@@ -166,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/siddharthsingh49/Leetcode/tree/master/0069-sqrtx) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
