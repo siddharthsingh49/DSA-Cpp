@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/siddharthsingh49/Leetcode/tree/master/0013-roman-to-integer) |
+| [0069-sqrtx](https://github.com/siddharthsingh49/Leetcode/tree/master/0069-sqrtx) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/siddharthsingh49/Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 ## Array
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0069-sqrtx](https://github.com/siddharthsingh49/Leetcode/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/siddharthsingh49/Leetcode/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Newton's Method
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/siddharthsingh49/Leetcode/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
