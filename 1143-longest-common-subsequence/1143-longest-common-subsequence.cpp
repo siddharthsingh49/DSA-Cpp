@@ -7,8 +7,6 @@ public:
         if(dp[i][j]!=-1){
             return dp[i][j];
         }
-        
-        
         if(text1[i]==text2[j]){
             return dp[i][j]= 1+solve(text1,text2,i-1,j-1,dp);
         }
@@ -22,6 +20,5 @@ public:
         int m=text2.length();
         vector<vector<int>>dp(n,vector<int>(m,-1));
         return solve(text1,text2,n-1,m-1,dp);
-
     }
 };
