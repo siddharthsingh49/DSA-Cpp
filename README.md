@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/siddharthsingh49/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/siddharthsingh49/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/siddharthsingh49/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/siddharthsingh49/Leetcode/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 ## String
 |  |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Binary Search
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
+| [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/siddharthsingh49/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthsingh49/Leetcode/tree/master/0011-container-with-most-water) |
+| [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 ## Design
 |  |
 | ------- |
