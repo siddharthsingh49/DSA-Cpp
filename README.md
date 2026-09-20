@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/siddharthsingh49/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddharthsingh49/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/siddharthsingh49/Leetcode/tree/master/0191-number-of-1-bits) |
 <!---LeetCode Topics End-->
