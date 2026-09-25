@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 | [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/siddharthsingh49/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0643-maximum-average-subarray-i](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/siddharthsingh49/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## Tree
 | Problem Name | Difficulty |
