@@ -247,10 +247,15 @@ A collection of LeetCode questions to ace the coding interview
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthsingh49/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/siddharthsingh49/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Combinatorics
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/siddharthsingh49/Leetcode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
