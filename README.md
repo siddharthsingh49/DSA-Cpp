@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0151-reverse-words-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddharthsingh49/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddharthsingh49/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/siddharthsingh49/Leetcode/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
@@ -190,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0011-container-with-most-water](https://github.com/siddharthsingh49/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Design
 |  |
 | ------- |
