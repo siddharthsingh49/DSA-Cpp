@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1143-longest-common-subsequence](https://github.com/siddharthsingh49/Leetcode/tree/master/1143-longest-common-subsequence) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Trie
 |  |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1021-remove-outermost-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/siddharthsingh49/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
 |  |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1021-remove-outermost-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Simulation
 |  |
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0011-container-with-most-water](https://github.com/siddharthsingh49/Leetcode/tree/master/0011-container-with-most-water) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Design
 |  |
 | ------- |
