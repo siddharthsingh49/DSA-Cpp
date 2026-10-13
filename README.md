@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/siddharthsingh49/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddharthsingh49/Leetcode/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0344-reverse-string) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthsingh49/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0209-minimum-size-subarray-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -138,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0191-number-of-1-bits](https://github.com/siddharthsingh49/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
 | ------- |
@@ -275,4 +279,12 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0206-reverse-linked-list) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
