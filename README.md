@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/siddharthsingh49/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddharthsingh49/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Array
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Design
 |  |
 | ------- |
