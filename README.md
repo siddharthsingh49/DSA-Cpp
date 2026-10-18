@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
+| [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 ## Trie
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/siddharthsingh49/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Union-Find
 |  |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0191-number-of-1-bits](https://github.com/siddharthsingh49/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
+| [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 ## Sorting
 |  |
 | ------- |
@@ -163,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0643-maximum-average-subarray-i](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/siddharthsingh49/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
+| [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 ## Tree
 |  |
 | ------- |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/siddharthsingh49/Leetcode/tree/master/0191-number-of-1-bits) |
+| [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 ## Counting
 |  |
 | ------- |
