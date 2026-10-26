@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0643-maximum-average-subarray-i](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
+| [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 | [0739-daily-temperatures](https://github.com/siddharthsingh49/Leetcode/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/siddharthsingh49/Leetcode/tree/master/0875-koko-eating-bananas) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/siddharthsingh49/Leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 | [0904-fruit-into-baskets](https://github.com/siddharthsingh49/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1763-longest-nice-substring](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/1763-longest-nice-substring) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -233,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0155-min-stack](https://github.com/siddharthsingh49/Leetcode/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/siddharthsingh49/Leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 | [0933-number-of-recent-calls](https://github.com/siddharthsingh49/Leetcode/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Stack
 |  |
@@ -290,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0206-reverse-linked-list) |
+| [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthsingh49/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/siddharthsingh49/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 ## Combinatorics
@@ -310,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
