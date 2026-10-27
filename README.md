@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0011-container-with-most-water](https://github.com/siddharthsingh49/Leetcode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/siddharthsingh49/Leetcode/tree/master/0027-remove-element) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0088-merge-sorted-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0024-swap-nodes-in-pairs) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0206-reverse-linked-list) |
