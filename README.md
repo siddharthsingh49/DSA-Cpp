@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0904-fruit-into-baskets](https://github.com/siddharthsingh49/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0912-sort-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/siddharthsingh49/Leetcode/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [2073-time-needed-to-buy-tickets](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Two Pointers
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0682-baseball-game](https://github.com/siddharthsingh49/Leetcode/tree/master/0682-baseball-game) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
+| [2073-time-needed-to-buy-tickets](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 ## Greedy
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0225-implement-stack-using-queues](https://github.com/siddharthsingh49/Leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/siddharthsingh49/Leetcode/tree/master/0933-number-of-recent-calls) |
+| [2073-time-needed-to-buy-tickets](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 ## Data Stream
 |  |
 | ------- |
