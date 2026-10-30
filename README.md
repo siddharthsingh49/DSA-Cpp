@@ -186,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0112-path-sum) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0206-reverse-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0706-design-hashmap](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0706-design-hashmap) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthsingh49/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/siddharthsingh49/Leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0912-sort-an-array) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
