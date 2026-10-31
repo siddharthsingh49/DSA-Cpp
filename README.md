@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0213-house-robber-ii](https://github.com/siddharthsingh49/Leetcode/tree/master/0213-house-robber-ii) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0160-intersection-of-two-linked-lists](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0844-backspace-string-compare](https://github.com/siddharthsingh49/Leetcode/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/siddharthsingh49/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Dynamic Programming
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0205-isomorphic-strings](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/siddharthsingh49/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/siddharthsingh49/Leetcode/tree/master/0496-next-greater-element-i) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/siddharthsingh49/Leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0410-split-array-largest-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/siddharthsingh49/Leetcode/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/siddharthsingh49/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview
 | ------- |
 | [0088-merge-sorted-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0088-merge-sorted-array) |
 | [0268-missing-number](https://github.com/siddharthsingh49/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0349-intersection-of-two-arrays) |
 | [0912-sort-an-array](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0912-sort-an-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 ## Sliding Window
