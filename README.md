@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview
 | [1401-circle-and-rectangle-overlapping](https://github.com/siddharthsingh49/Leetcode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview
 | [2073-time-needed-to-buy-tickets](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/2073-time-needed-to-buy-tickets) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/siddharthsingh49/DSA-Cpp/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Two Pointers
 |  |
 | ------- |
