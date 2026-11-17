@@ -197,19 +197,23 @@ A collection of LeetCode questions to ace the coding interview
 ## Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0112-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0112-path-sum) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/siddharthsingh49/DSA-Cpp/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/siddharthsingh49/Leetcode/tree/master/0112-path-sum) |
 ## Stack
 |  |
